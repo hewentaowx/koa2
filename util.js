@@ -208,7 +208,7 @@ exports.elementInArrayIndex = (arr, obj) => {
 
 
 /**
- * 网宿视频剪辑
+ * 网宿视频剪辑 等会写
  * @constructor
  */
 exports.CutVideo = (req,res) => {
