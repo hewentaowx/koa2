@@ -6,7 +6,7 @@ require('../bin/run')
 var app = require('../app')
 
 describe('Koa GET /', function(){
-  it('respond sucess', function(done){
+  it('respond success', function(done){
     request(app.listen())
       .get('/')
       .set('Accept', 'application/text')
